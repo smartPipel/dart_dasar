@@ -25,7 +25,7 @@ void main() {
 
   // Default value
 
-  String? guest = 'Alvin';
+  String? guest;
 
   String getGuest = guest ?? 'This is guest name';
 
